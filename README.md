@@ -28,7 +28,10 @@
 </div>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhybe-choi&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+<!--   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhybe-choi&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  </a> -->
+  <a href="https://hits.sh/github.com/whybe-choi/">
+  <img alt="Hits" src="https://hits.sh/github.com/whybe-choi.svg?view=today-total&color=41B883&icon=github.svg&iconColor=E7E7E7&title=hits&edgeFlat=false" />
   </a>
 </p>
  
